@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Collin Finetti 👋
+**Continuous Improvement Engineer | [cite_start]CSE Graduate** [cite: 5, 8]
 
-<!--
-**SiliconFF/SiliconFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Automation Initiatives
 
-Here are some ideas to get you started:
+#### 🌬️ [Compressed Air Cost Recovery](projects/compressed-air.md)
+* Identified **$350,000/year** in energy loss through acoustic imaging.
+* [cite_start]Implemented a management training system that recovered **$250,000** in annual electricity costs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤖 [Ram 1500 Robotic Optimization](projects/robotic-optimization.md)
+* [cite_start]Reprogrammed assembly line logic to achieve **zero downtime** during model changeovers[cite: 39].
+* Increased parts per hour by **10%** and reduced consumable costs by **$45,000**[cite: 39].
+
+#### ⚡ [Weld Process Improvement](projects/weld-improvement.md)
+* [cite_start]Led a cross-functional project for the Jeep Grand Cherokee line, saving **$60,000** annually[cite: 36, 37].
