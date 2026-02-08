@@ -67,4 +67,4 @@ The combined logic and hardware improvements delivered immediate and sustained o
 * **Downtime Elimination:** Removed legacy model change delays, resulting in **zero downtime** during transitions.
 * **Process Reliability:** Standardized Poka-Yoke logic to ensure proper sequencing and prevent missing components.
 
-*Disclaimer: All data presented has been normalized or rounded to protect proprietary production information. No confidential CAD data or internal plant photography has been used.*
+> *Disclaimer: All data presented has been normalized or rounded to protect proprietary production information. No confidential CAD data or internal plant photography has been used.*
