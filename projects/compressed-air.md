@@ -57,4 +57,5 @@ Implementing this technology provides value across multiple departments, includi
 3. **Predictive Maintenance:** Early detection of premature component failure.
 4. **Labor Savings:** Massive reduction in the time required to find and verify leaks.
 
-
+---
+> *Note: All production data has been normalized and rounded to protect proprietary information. No confidential internal plant photography or proprietary unit pricing has been disclosed.*
