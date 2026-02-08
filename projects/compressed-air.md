@@ -41,7 +41,7 @@ Finding inaudible leaks in a large plant is nearly impossible without specialize
 By reducing leaks from 30% down to 10%, we project the following financial outcomes:
 
 * **Estimated Annual Savings:** **$236,093.33**.
-* **Device ROI:** **Less than 1 month** (Unit Cost at Time of Purhcase: $8,799).
+* **Device ROI:** **Less than 1 month** (Unit Cost at Time of Purchase: $8,799).
 
 ### **Sustained Maintenance Schedule:**
 To reach and maintain the 10% efficiency mark, a standardized audit schedule was developed:
