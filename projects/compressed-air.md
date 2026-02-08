@@ -1,5 +1,4 @@
 # Compressed Air Energy Cost Reduction Proposal
-**Presented by: Collin Finetti**
 
 ## Executive Summary
 This proposal addresses unquantified energy loss across the manufacturing floor by identifying and repairing compressed air leaks. By transitioning from a poorly maintained system (30% air loss) to a well-maintained standard (10% air loss), the facility can achieve significant annual utility savings.
