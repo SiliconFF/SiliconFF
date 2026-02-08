@@ -45,7 +45,7 @@ By reducing leaks from 30% down to 10%, we project the following financial outco
 ### **Sustained Maintenance Schedule:**
 To reach and maintain the 10% efficiency mark, a standardized audit schedule was developed:
 * **Year 1:** Quarterly audits to reduce the backlog of existing leaks.
-* **Successive Years:** Bi-annual audits (Q1 & Q3) for sustained energy recover.
+* **Successive Years:** Bi-annual audits (Q1 & Q3) for sustained energy savings.
 
 ---
 
