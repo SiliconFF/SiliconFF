@@ -19,7 +19,7 @@ I am a hybrid engineer that is able to bridge **Software Engineering** and **Ind
 ### [Jeep Grand Cherokee Bodyside Weld Optimization](projects/jeep-weldprocessimprovement.md)
 * **The Problem:** High operational expenditure (OPEX) caused by frequent weld-cap failure and manual line stops.
 * **The Solution:** Transitioned the bodyside assembly line to high-durability alloys and recalibrated robot weld parameters for extended life.
-* **The Result:** Realized a **52% reduction in annual consumable spend** ($44k+ per line) with a 6.4-month ROI.
+* **The Result:** Realized a **52% reduction in annual consumable spend** ($44k+) with a 6.4-month ROI.
 
 ### [Ram 1500 Box Assembly Cycle Time Optimization](projects/ram1500-processimprovement.md)
 * **The Problem:** Sub-optimal robotic motion paths and idle "wait-states" resulted in slow cycle times and restricted total throughput (JPH).
