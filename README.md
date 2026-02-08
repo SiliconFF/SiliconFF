@@ -1,15 +1,17 @@
-# Hi, I'm Collin Finetti 👋
-**Continuous Improvement Engineer | [cite_start]CSE Graduate** [cite: 5, 8]
+# Hi, I'm Collin Finetti
+**Continuous Improvement Engineer | CSE Graduate  May, 2024 - University of Toledo** 
 
-### 🚀 Featured Automation Initiatives
+## Professional Summary
+I am a hybrid engineer that is able to bridge **Software Engineering** and **Industrial Automation** to drive cost savings and system efficiencies to the max. With my degree in CSE and my hands on plant level experience in high volume **Tier-1 Automotive Suppliers** I specialize in rapid response and data collection for tight customer demands and quality requirements. 
 
-#### 🌬️ [Compressed Air Cost Recovery](projects/compressed-air.md)
-* Identified **$350,000/year** in energy loss through acoustic imaging.
-* [cite_start]Implemented a management training system that recovered **$250,000** in annual electricity costs.
 
-#### 🤖 [Ram 1500 Robotic Optimization](projects/robotic-optimization.md)
-* [cite_start]Reprogrammed assembly line logic to achieve **zero downtime** during model changeovers[cite: 39].
-* Increased parts per hour by **10%** and reduced consumable costs by **$45,000**[cite: 39].
 
-#### ⚡ [Weld Process Improvement](projects/weld-improvement.md)
-* [cite_start]Led a cross-functional project for the Jeep Grand Cherokee line, saving **$60,000** annually[cite: 36, 37].
+
+
+
+##  Featured Automation Initiatives
+
+### [Compressed Air Cost Recovery & Acoustic Imaging](projects/compressed-air.md)
+* **The Problem:** Unquantified energy loss across the manufacturing floor.
+* **The Solution:** Researched and deployed acoustic imaging equipment to identify and log air leaks.
+* **The Result:** Achieved **$250,000 in annual electricity savings** and developed manager training for sustained maintenance.
