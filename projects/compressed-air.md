@@ -22,13 +22,18 @@ Compressed air cost is primarily driven by **system efficiency**. Using the [FLU
 ## The Solution: Acoustic Imaging
 Finding inaudible leaks in a large plant is nearly impossible without specialized sensors. I proposed the implementation of the **FLIR Si124-LD Plus** acoustic imaging device.
 
-![FLIR Si124-LD Plus Device](/assets/flir_SI124.png)
+![FLIR Si124-LD Plus Device](./assets/flir_SI124.png)  
+
 *Figure 1: The FLIR Si124-LD Plus allows for detection from up to 130m (430ft).*
 
 ### **Device Capabilities:**
 * **Max Sensing Range:** 130m (430ft).
 * **Real-time Imaging:** Visualizes gas leaks on a touch-screen interface.
 * **Quantification:** Automatically identifies and estimates the volume of gas being lost.
+
+![Acoustic Imaging Interface](./assets/flir_SI124_Interface.png)  
+
+*Figure 2: Sample interface showing real-time leak cost estimation and data logging.*
 
 ---
 
