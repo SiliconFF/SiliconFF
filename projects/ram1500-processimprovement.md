@@ -51,8 +51,8 @@ By identifying and addressing the "Six Big Losses" (Breakdowns, Setup, Idling, S
 
 ---
 
-## Maintenance and Consumables
-Mechanical downtime was addressed through a strategic transition in weld consumable hardware and automation.
+## Weld Consumables
+The cost of consumables was addressed through a strategic transition in weld consumable hardware and automation.
 
 * **Weld Cap Material:** Transitioned to long-lasting specialized alloys to reduce replacement frequency.
 * **Cap Replacement:** Implemented **Automatic Weld Cap Changers** to eliminate manual line stops.
