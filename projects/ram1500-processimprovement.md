@@ -29,7 +29,7 @@ The primary bottleneck involved legacy "static" changeovers that required the en
 
 ### **1. Dynamic Part Tracking (Shift Registers)**
 I engineered a **dynamic model changeover program** utilizing PLC **shift registers** to track different part types in real-time as they moved through the line. 
-* **Mechanism:** Shift registers allow the system to "remember" the specific model of each part at every station along the conveyor, shifting that data forward as the physical part moves.
+* **Mechanism:** Shift registers allow the system to "remember" the specific model of each part at every station through the sequence, shifting that data forward as the physical part moves.
 * **Result:** Eliminated the "line purge" requirement, allowing mixed-model processing with **zero downtime during changeovers**.
 
 ### **2. Robotic Cycle Time Optimization**
