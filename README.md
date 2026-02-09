@@ -25,3 +25,8 @@ I am a hybrid engineer that is able to bridge **Software Engineering** and **Ind
 * **The Problem:** Sub-optimal robotic motion paths and idle "wait-states" resulted in slow cycle times and restricted total throughput (JPH).
 * **The Solution:** Reprogrammed FANUC robotics with "Pounce" motion paths to recover idle seconds and engineered PLC shift registers to maintain continuous flow.
 * **The Result:** Achieved a **10% increase in total throughput (JPH)** through performance recovery and reached a zero-downtime model changeover standard.
+
+### [Mach2 SCADA Implementation: Real-Time Operational Intelligence](projects/scada-eventmonitoring.md)
+* **The Problem:** Poor or completely inadequate logging of quality and production changes in the manufacturing automation
+* **The Solution:** Implement real time tracking and alerts of important PLC data using Mach2 SCADA system to send notifications or log critical events
+* **The Result:** *In Progress*
