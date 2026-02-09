@@ -17,7 +17,7 @@ The project focused on the structural bodyside assembly of the WL platform, ensu
 
 
 ## The Problem: High-Frequency Replacement
-The Bodyside Assembly line utilizes more than 40 individual spot-welding guns. The legacy process used standard Copper-Titanium electrodes with a limited lifespan, leading to frequent manual replacements, increased downtime, and high annual purchasing costs.
+The Bodyside Assembly line utilizes more than 40 individual spot-welding guns. The legacy process used standard Copper-Titanium electrodes with a limited lifespan, leading to frequent replacements, increased downtime, and high annual purchasing costs.
 
 | Metric | Legacy Standard (CuTi) |
 | :--- | :--- |
