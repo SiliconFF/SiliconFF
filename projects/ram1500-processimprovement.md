@@ -1,7 +1,7 @@
-# Process Improvement for Ram 1500 Box Assembly (DT Inner)
+# Process Improvement for Ram 1500 Box Assembly
 
 ## Executive Summary
-This project targeted critical inefficiencies within the **Ram 1500 (DT Inner)** box assembly line at the Thai Summit Howell facility. By optimizing robotic motion paths, engineering dynamic PLC logic, and transitioning to high-durability consumables, the project achieved a **10% increase in throughput (JPH)** and **zero-downtime model changeovers**.
+This project targeted critical inefficiencies within the **Ram 1500** box assembly line at the Thai Summit Howell facility. By optimizing robotic motion paths, engineering dynamic PLC logic, and transitioning to high-durability consumables, the project achieved a **10% increase in throughput (JPH)** and **zero-downtime model changeovers**.
 
 ---
 
@@ -10,7 +10,7 @@ The **DT Boxside Inner** assembly is the core structural component for the Ram 1
 
 ![Ram 1500 RamBox Application](./assets/rambox_application.jpg)  
 
-*Figure: The final application of the DT Inner assembly within the Ram 1500.*
+*Figure: The final application of the Rambox assembly within the Ram 1500.*
 
 ---
 
